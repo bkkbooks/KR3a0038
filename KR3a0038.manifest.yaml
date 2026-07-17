@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3a0038_000.yaml, hash: 'sha256:90f7275c06dd89d7fad2d15c55220dc09455dee4bf4479da51f8eba68cee05f5'}
   - {seq: 1, filename: KR3a0038_001.yaml, hash: 'sha256:1ce1d4f07abb78346d04461c8c55f4f85ed2958242d8af1f3e1b31b8110f993a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0038_000.markers.yaml, hash: 'sha256:d595c6a78d210de9eea2bc7f86002d2bec34516976f40ef4b0b7e99811fc13d3'}
-  - {seq: 1, role: markers, filename: assets/KR3a0038_001.markers.yaml, hash: 'sha256:5e8dedc24f4819cc0417473b322fa0d52f4c26fe905ad031038c8508ce1a9ed6'}
+  - {seq: 0, role: markers, filename: assets/KR3a0038_000.markers.yaml, hash: 'sha256:ae7e5519312adb6dd3aa1d3ddbb8bca5c7e452fe9688212247d7411614b567fb'}
+  - {seq: 1, role: markers, filename: assets/KR3a0038_001.markers.yaml, hash: 'sha256:d2adea4a0aae578b64c78596346ad706a4ce11b7c97f742b81577e392811a78b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,7 @@ table_of_contents:
   label: 省心雜言
   type: section
   level: 1
-hash: sha256:6b732db1a67c526a6c91cea0930ff081bd1142dcca9bd25498d50187b7822658
+hash: sha256:4c30bbac7f8acbfd082d1e9f27207d51f64c7f9bea70f2d81b1ee38a5ea29f68
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
